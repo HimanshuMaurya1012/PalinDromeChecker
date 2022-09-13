@@ -11,14 +11,14 @@ Designed web app using:
 
 ## Screenshots
   - WebPage.<br><br><br>
-    ![index](https://github.com/HimanshuMaurya1012/PalinDromeChecker/edit/main/img/ss1.PNG)
+    ![index](https://github.com/HimanshuMaurya1012/PalinDromeChecker/main/img/ss1.PNG)
     <br>
     
   - Palindrome.<br><br><br>
-    ![index](https://github.com/HimanshuMaurya1012/PalinDromeChecker/edit/main/img/ss1.PNG)
+    ![index](https://github.com/HimanshuMaurya1012/PalinDromeChecker/main/img/ss1.PNG)
     <br>
     
     
    - Not Palindrome.<br><br><br>
-    ![index](https://github.com/HimanshuMaurya1012/PalinDromeChecker/edit/main/img/ss1.PNG)
+    ![index](https://github.com/HimanshuMaurya1012/PalinDromeChecker/main/img/ss1.PNG)
     <br>
